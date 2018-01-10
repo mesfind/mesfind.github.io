@@ -1,6 +1,8 @@
 # Dependencies
 highlighter:      rouge
-
+layout: default
+comments: true
+# other options
 gems:
   - jekyll-paginate
   - jekyll-feed
