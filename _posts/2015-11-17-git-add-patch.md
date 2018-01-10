@@ -63,3 +63,6 @@ In any case, you shouldn't be using `--patch` as an excuse to be more lazy about
 
 * [Commit only part of a file in Git](http://stackoverflow.com/questions/1085162/commit-only-part-of-a-file-in-git) on StackOverflow
 * Info from typing `help` while in the `git add -p file.ext` dialog
+
+
+<a href="{{post.id}}" data-disqus-identifier="{{post.id}}">Leave a comment</a>
