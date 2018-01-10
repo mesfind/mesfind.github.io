@@ -33,6 +33,7 @@ author:
   twitter:        'https://twitter.com/mesfindiro'
   googleplus:     ''
   linkedin:       'https://www.linkedin.com/in/mesfindiro '
+  disqus_shortname: 'mesfind'
 
 paginate:         3
 # paginate_path:    "/blog/page:num/"
