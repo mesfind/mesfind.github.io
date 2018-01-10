@@ -2,7 +2,7 @@
 layout: default
 title: Home
 ---
-
+<a href="{{ post.url }}index.html#disqus_thread" data-disqus-identifier="{{post.url}}"></a>
 <div class="posts">
   {% for post in paginator.posts %}
   <div class="post">
