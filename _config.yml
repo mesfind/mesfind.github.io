@@ -16,7 +16,7 @@ title:            'Mesfin Diro Chaka'
 name:             'Mesfin Diro Chaka'
 #tagline:          ''
 description:      'Computational Data Scientist'
-#url:              http://mesfind.github.io/mesfind
+url:              http://mesfind.github.io
 baseurl:
 # blogurl:          /blog/
 
@@ -26,7 +26,7 @@ pdfs:           '/pdf'
 
 author:
   name:           'Mesfin Diro Chaka'
-  url:            mesfind.github.io
+  url:            'mesfind.github.io'
   email:          'mesfindiro@gmail.com'
   github:         'https://github.com/mesfind'
   facebook:       'http://www.facebook.com/ILikeDataEdge'
