@@ -42,7 +42,7 @@ paginate:         3
 # Custom vars
 version:          2.1.0
 
-github:           https://github.com/mesfind
+github:           
   repo:           https://github.com/MesfinD/mesfind.github.io
 
 # Collections
