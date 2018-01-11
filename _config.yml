@@ -36,7 +36,7 @@ author:
   disqus_shortname: mesfind
 
 paginate:         3
- paginate_path:    "/blog/page:num/"
+# paginate_path:    "/blog/page:num/"
 
 # Custom vars
 version:          2.1.0
