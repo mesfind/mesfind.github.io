@@ -50,7 +50,9 @@ format: page-fullwidth
       {% if page.comments == true %}
       {% include disqus.html %}
       {% endif %}
-
+     {% if site.disqus_shortname %}
+     {% include disqus_comments.html %}
+     {% endif %}
     </row>
     </article>
   </div>
