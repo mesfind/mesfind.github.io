@@ -49,12 +49,6 @@ github:
 collections:
   - projects
   - talks
-# Theme works best with Kramdown (using the table of contents function)
-markdown: kramdown
-kramdown: 
-  parse_block_html: true
-highlight: pygments
-excerpt_separator: "<!--more-->"
 
 # defaults:
 #   -
