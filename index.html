@@ -10,6 +10,7 @@ title: Home
       <a href="{{ site.baseurl }}{{ post.url }}">
         {{ post.title | markdownify }}
       </a>
+      <a href="{{ post.url }}index.html#disqus_thread" data-disqus-identifier="{{post.url}}"></a>
     </h1>
     {% if post.subtitle %}
       <h3 class="post-subtitle">{{ post.subtitle | markdownify  }}</h3>
