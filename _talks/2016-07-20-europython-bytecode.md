@@ -1,6 +1,7 @@
 ---
-title: "Exploring Python bytecode"
-event: "EuroPython"
-event-url: "https://ep2016.europython.eu/conference/talks/exploring-python-bytecode"
-location: "Bilbao, Spain"
+title: "Data Carpentry Workshop"
+subtitle: "Ethiopian Research and Education Network"
+event: "Data Carpentry"
+event-url: |https://mesfind.github.io/2017-10-30-Ethiopia/"
+location: "Addis Ababa, Ethiopia"
 ---
