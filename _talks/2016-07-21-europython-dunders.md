@@ -1,6 +1,7 @@
 ---
-title: "Using and abusing Python's double-underscore methods and attributes"
-event: "EuroPython"
-event-url: "https://ep2016.europython.eu/conference/talks/using-and-abusing-pythons-double-underscore-methods-and-attributes"
-location: "Bilbao, Spain"
+title: "Software Carpentry Workshop"
+subtitle:"Center for Environmental Science"
+event: "Software Carpentry"
+event-url: "https://mesfind.github.io/2017-11-13-AAU/"
+location: "Addis Ababa, Ethiopia"
 ---
