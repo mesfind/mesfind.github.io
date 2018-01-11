@@ -33,10 +33,10 @@ author:
   twitter:        'https://twitter.com/mesfindiro'
   googleplus:     ''
   linkedin:       'https://www.linkedin.com/in/mesfindiro '
-  disqus_shortname: 'mesfind'
+  disqus_shortname: mesfind
 
 paginate:         3
-# paginate_path:    "/blog/page:num/"
+ paginate_path:    "/blog/page:num/"
 
 # Custom vars
 version:          2.1.0
@@ -56,3 +56,24 @@ collections:
 #       type: "projects" # a collection in your site, in plural form
 #     values:
 #       layout: "default"
+# Default Settings
+
+defaults:
+  -
+    scope:
+      path: "" 			# an empty string here means all files in the project
+      type: "pages"
+    values:
+      show_meta: false		# Hide metadata for all pages
+      # sidebar:    		# Possible values › left, right › by default there will be no sidebar
+      comments: true
+      author: mesfind		# Default author for pages
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      show_meta: true		# Show metadata for all posts
+      # sidebar:		# Possible values › left, right › by default there will be no sidebar
+      comments: true
+      author: mesfind		# Default author for posts
