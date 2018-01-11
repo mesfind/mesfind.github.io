@@ -16,7 +16,7 @@ title:            'Mesfin Diro Chaka'
 name:             'Mesfin Diro Chaka'
 #tagline:          ''
 description:      'Computational Data Scientist'
-url:              http://mesfind.github.io
+url:              'https://mesfind.github.io'
 baseurl:
 # blogurl:          /blog/
 
@@ -57,23 +57,3 @@ collections:
 #     values:
 #       layout: "default"
 # Default Settings
-
-defaults:
-  -
-    scope:
-      path: "" 			# an empty string here means all files in the project
-      type: "pages"
-    values:
-      show_meta: false		# Hide metadata for all pages
-      # sidebar:    		# Possible values › left, right › by default there will be no sidebar
-      comments: true
-      author: mesfind		# Default author for pages
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      show_meta: true		# Show metadata for all posts
-      # sidebar:		# Possible values › left, right › by default there will be no sidebar
-      comments: true
-      author: mesfind		# Default author for posts
