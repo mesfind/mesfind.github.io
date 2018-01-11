@@ -6,6 +6,6 @@ title: Site credits
 Built with <a href="http://jekyllrb.com" target="_blank">Jekyll</a> and hosted on <a href="https://pages.github.com/" target="_blank">Github Pages</a>.
 
 Design based on [@mdo](https://twitter.com/mdo)'s [Hyde theme](https://github.com/poole/hyde) for Jekyll,
-incorporating  designs from <a href="http://vakila.github.io" target="_blank">Vakila</a>'s along with other modifications.
+adopted from <a href="http://vakila.github.io" target="_blank">Sofia Vakila</a>'s along with other modifications.
 
 &copy; {{ site.time | date: '%Y' }} {{ site.author.name }}
