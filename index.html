@@ -18,6 +18,7 @@ title: Home
 
     {{ post.excerpt | markdownify }}
   </div>
+  <a href="{{ post.url }}index.html#disqus_thread" data-disqus-identifier="{{post.url}}"></a>
   {% endfor %}
 </div>
 
@@ -34,9 +35,5 @@ title: Home
         Older <i class="fa fa-arrow-right"></i>
     </a>
   {% endif %}
-  <div class="medium-4 columns">
-  <div id="recentcomments" class="dsq-widget">
-    <script type="text/javascript" src="http://mesfin-2.disqus.com/recent_comments_widget.js?num_items=5&hide_avatars=1&excerpt_length=200"></script>
-    </div>
-    </div>
+ 
 </div>
