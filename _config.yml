@@ -16,7 +16,7 @@ title:            'Mesfin Diro Chaka'
 name:             'Mesfin Diro Chaka'
 #tagline:          ''
 description:      'Computational Data Scientist'
-url:              https://mesfind.github.io
+url:              'https://mesfind.github.io'
 baseurl:
 # blogurl:          /blog/
 
@@ -28,7 +28,8 @@ author:
   name:           'Mesfin Diro Chaka'
   url:            'mesfind.github.io'
   email:          'mesfindiro@gmail.com'
-  github:         'https://github.com/mesfind'
+  github:         'https://github.com/MesfinD'
+  github_io_url   : "http://mesfind.github.io"
   facebook:       'http://www.facebook.com/ILikeDataEdge'
   twitter:        'https://twitter.com/mesfindiro'
   googleplus:     ''
@@ -48,6 +49,12 @@ github:           https://github.com/mesfind
 collections:
   - projects
   - talks
+# Theme works best with Kramdown (using the table of contents function)
+markdown: kramdown
+kramdown: 
+  parse_block_html: true
+highlight: pygments
+excerpt_separator: "<!--more-->"
 
 # defaults:
 #   -
