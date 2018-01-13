@@ -16,7 +16,7 @@ title:            'Mesfin Diro Chaka'
 name:             'Mesfin Diro Chaka'
 #tagline:          ''
 description:      'Computational Data Scientist'
-url:              'https://mesfind.github.io'
+url:               https://mesfind.github.io
 baseurl:
 # blogurl:          /blog/
 
