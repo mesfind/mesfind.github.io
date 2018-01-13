@@ -308,10 +308,11 @@ figure {
     border-radius: 50px;
     box-sizing: border-box;
     background-color: #DDD;
-    border: 5px solid #cfd8dc;
+    border: 5px solid red;
+    /* fill the container, preserving aspect ratio, and cropping to fit */
+    background-size: cover;
+    /* center the image vertically and horizontally */
+    background-position: top center;
 }
 
-img {
-    height: 100px;
-    width: 100px
-}
+
