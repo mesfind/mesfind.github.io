@@ -309,10 +309,6 @@ figure {
     box-sizing: border-box;
     background-color: #DDD;
     border: 5px solid red;
-    /* fill the container, preserving aspect ratio, and cropping to fit */
-     background-size: cover;
-    /* center the image vertically and horizontally */
-    background-position: top center;
 }
 
 
