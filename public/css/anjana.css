@@ -309,7 +309,7 @@ figure {
     border-radius: 50px;
     background-color:;
     border: 5px solid #ff675b;
-    background-position: center center;
+   display: inline-block;
     
 }
 img {
