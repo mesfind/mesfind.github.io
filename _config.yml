@@ -35,6 +35,7 @@ author:
   googleplus:     'https://www.google.com/+MesfinDiro'
   linkedin:       'https://www.linkedin.com/in/mesfindiro '
   disqus_shortname: mesfind
+  gravatar_md5: 7717d7033ad2df9f694114079356800d
 
 paginate:         3
 # paginate_path:    "/blog/page:num/"
