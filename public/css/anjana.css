@@ -312,5 +312,7 @@ figure {
     background-position: center center;
     
 }
-
+img {
+    object-fit: cover;
+}
 
