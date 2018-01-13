@@ -304,10 +304,11 @@ figure {
 }
 
 .avatar {
+      width: 150px;
+    height: 150px;
     display: block;
     border-radius: 50px;
-    box-sizing: border-box;
-    background-color: #DDD;
+    background-color: ;
     border: 5px solid red;
 }
 
