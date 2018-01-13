@@ -51,6 +51,8 @@ collections:
   - projects
   - talks
 
+feed:
+  path: atom.xml
 # defaults:
 #   -
 #     scope:
