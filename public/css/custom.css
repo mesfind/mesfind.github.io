@@ -7,8 +7,7 @@
       -moz-border-radius: 50%;
       -webkit-border-radius: 50%;
       width: 160px;
-      margin: 10px;
-      background-color: #F5F5F5;      
+      margin: 0 auto;     
       border: 1px solid #DDDDDD;         
       background-size: cover;
 
