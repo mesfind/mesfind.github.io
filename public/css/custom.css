@@ -9,3 +9,8 @@
       width: 160px;
       margin: 0 auto;
 }
+.avatar {
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+}
