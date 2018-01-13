@@ -303,14 +303,15 @@ figure {
   color: #000000;
 }
 
-.circleborder {
-width: 300px;
-height: 300px;
-border-radius: 150px;
--webkit-border-radius: 150px;
--moz-border-radius: 150px;
-background: url(URL) no-repeat;
-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
--webkit-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
--moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+.avatar {
+    display: block;
+    border-radius: 200px;
+    box-sizing: border-box;
+    background-color: #DDD;
+    border: 5px solid #cfd8dc;
+}
+
+img {
+    height: 200px;
+    width: 200px
 }
