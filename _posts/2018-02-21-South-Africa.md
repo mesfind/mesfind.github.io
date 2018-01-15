@@ -14,6 +14,4 @@ with associated lesson organizations starting from January 1, 2018.
 
 The Carpentry community is growing!. Carpentry Instructor Trainers run instructor training workshops, lead online teaching 
 demonstrations, and engage with the Trainer community about how best to train new instructors. Since 2014, we have increased 
-the number of African Instuctors from 0 to almost 30 today. The upcoming [training in Kleinmond](https://tenet-rccpii.github.
-io/2018-02-21-South-Africa-ttt/) South Africa will  bring the total number of [trained instructors](https://software-carpentry.
-org/team/) on the africa continet to over 100.
+the number of African Instuctors from 0 to almost 30 today. The upcoming [training in Kleinmond](https://tenet-rccpii.github.io/2018-02-21-South-Africa-ttt/) South Africa will  bring the total number of [trained instructors](https://software-carpentry.org/team/) on the africa continet to over 100.
