@@ -12,3 +12,7 @@ fundamental concepts of research analysis and computing. Each Carpentry communit
 The Carpentry community is growing!. Carpentry Instructor Trainers run instructor training workshops, lead online teaching 
 demonstrations, and engage with the Trainer community about how best to train new instructors. Since 2014, we have increased 
 the number of African Instuctors from 0 to almost 30 today. The upcoming [training in Kleinmond](https://tenet-rccpii.github.io/2018-02-21-South-Africa-ttt/) South Africa will  bring the total number of [trained instructors](https://software-carpentry.org/team/) on the africa continet to over 100.
+
+The course is aimed at everyone who is interested in becoming a better teacher. In particular, this training is aimed at those who want to become Software Carpentry and Data Carpentry instructors, run workshops and contribute to the Carpentry training materials. You don't currently have to be an instructor or a teacher to attend this workshop, but you do need to be willing and committed to becoming one and to improving your teaching techniques.
+
+
