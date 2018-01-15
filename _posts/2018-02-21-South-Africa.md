@@ -1,8 +1,8 @@
 ---
 layout: post
 Comments:true
-title: Software Carpentry
-subtitle: Instructor Training Event
+title: "Software Carpentry"
+subtitle: "Instructor Training Event"
 ----
 
 [Software Carpentry](https://software-carpentry.org/) was founded in 1998 and [Data Carpentry](http://www.datacarpentry.org)
