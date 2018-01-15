@@ -6,11 +6,8 @@ subtitle: "Instructor Training Event"
 ---
 
 [Software Carpentry](https://software-carpentry.org/) was founded in 1998 and [Data Carpentry](http://www.datacarpentry.org)
-was founded in 2013 as international non-profit organazation that runs short workshops(2 days workshops) to teach reseathers
-fundamental concepts of research analysis and computing. Each Carpetry community had several parts, which  function together to
-spread data and computational skills among researchers and other professional wordwide. Now, Carpentry steering committees have 
-approved to work under a single umbrella organization named **The Carpentries** 
-with associated lesson organizations starting from January 1, 2018. 
+was founded in 2013 as international non-profit organization that runs short workshops (2 days workshops) to teach researchers
+fundamental concepts of research analysis and computing. Each Carpentry community had several parts, which  function together to spread data and computational skills among researchers and other professional wordwide. Now, Carpentry steering committees have approved to work under a single umbrella organization named **The Carpentries**  with associated lesson organizations starting from January 1, 2018. 
 
 The Carpentry community is growing!. Carpentry Instructor Trainers run instructor training workshops, lead online teaching 
 demonstrations, and engage with the Trainer community about how best to train new instructors. Since 2014, we have increased 
