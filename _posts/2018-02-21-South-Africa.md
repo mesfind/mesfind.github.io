@@ -1,9 +1,9 @@
 ---
 layout: post
-comments:true
+comments: true
 title: "Software Carpentry"
 subtitle: "Instructor Training Event"
-----
+---
 
 [Software Carpentry](https://software-carpentry.org/) was founded in 1998 and [Data Carpentry](http://www.datacarpentry.org)
 was founded in 2013 as international non-profit organazation that runs short workshops(2 days workshops) to teach reseathers
