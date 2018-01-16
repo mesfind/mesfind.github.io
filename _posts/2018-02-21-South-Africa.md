@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: "Software Carpentry"
+title: "Software Carpentry Training "
 subtitle: "Instructor Training Event"
 ---
 
