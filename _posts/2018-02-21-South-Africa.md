@@ -15,7 +15,7 @@ the number of African Instuctors from 0 to almost 30 today. The upcoming [traini
 
 The course is aimed at everyone who is interested in becoming a better teacher. In particular, this training is aimed at those who want to become Software Carpentry and Data Carpentry instructors, run workshops and contribute to the Carpentry training materials. You don't currently have to be an instructor or a teacher to attend this workshop, but you do need to be willing and committed to becoming one and to improving your teaching techniques.
 
-Candidates who may be interested to become instructors  invited to apply. We are looking for people who already have some support structures around them (for example other instructors), new institutions (specifically more rural campuses), and preferably people who are already using the tools we are teaching. There is no fee, but they should be prepared to fund their own travel and accommodation and dinner. Breakfast, lunch and tea times will be served at the workshop (as most accommodation is on a self-catering basis). 
+Candidates who may be interested to become instructors invited to apply. We are looking for people who already have some support structures around them (for example other instructors), new institutions (specifically more rural campuses), and preferably people who are already using the tools we are teaching. There is no fee, but they should be prepared to fund their own travel and accommodation and dinner. Breakfast, lunch and tea times will be served at the workshop (as most accommodation is on a self-catering basis). 
 
 
 
