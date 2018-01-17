@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: "Libarary Carpentry Workshop"
+title: "Library Carpentry Workshop"
 subtitle: "The Ethiopian Research and Education Network, Addis Ababa"
 ---
 
