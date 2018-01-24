@@ -11,7 +11,7 @@ gems:
 permalink:              /blog/:categories/:title/
 # permalink:            blog/:categories/:year/:month/:day/:title/
 
-# Setup
+# SetupeTdataEdge
 title:            'Mesfin Diro Chaka'
 name:             'Mesfin Diro Chaka'
 #tagline:          ''
