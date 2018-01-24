@@ -29,11 +29,12 @@ author:
   url:            'mesfind.github.io'
   email:          'mesfindiro@gmail.com'
   github:         'https://github.com/MesfinD'
-  github_io_url   : "http://mesfind.github.io"
+  github_io_url:  "http://mesfind.github.io"
   facebook:       'https://www.facebook.com/eTdataEdge'
   twitter:        'https://twitter.com/mesfindiro'
   googleplus:     'https://www.google.com/+MesfinDiro'
-  linkedin:       'https://www.linkedin.com/in/mesfindiro '
+  linkedin:       'https://www.linkedin.com/in/mesfindiro'
+  slack:          'https://etdataedge.slack.com'
   disqus_shortname: mesfind
   gravatar_md5: ed696e2bc0e966c127f430f8ecdcd689
 
