@@ -45,7 +45,7 @@ paginate:         3
 version:          2.1.0
 
 github:           
-  repo:           https://github.com/MesfinD/mesfind.github.io
+  repo:           https://github.com/mesfind/mesfind.github.io
 
 # Collections
 collections:
