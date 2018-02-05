@@ -1,6 +1,5 @@
 ---
 layout: post
-Format: ![Alt Text](url)
 comments: true
 title: "What's is Python"
 subtitle: "About Python"
