@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Ethiopian Carpentry Instructor Training"
+title: ["Ethiopian Carpentry Instructor Training"](https://agenda.ethernet.edu.et/event/5/)
 comments: true
-location: German House (GIZ Building)
+location: [German House (GIZ Building)](https://mesfind.github.io/2018-06-04-Ethiopia-ttt/)
 link: https://agenda.ethernet.edu.et/event/5/
 date: 2018-06-04
 archive: Y  
