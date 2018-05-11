@@ -9,7 +9,7 @@ archive: Y
 etherpad: https://public.etherpad-mozilla.org/p/AAU-Unix
 repo: https://mesfind.github.io/2018-06-04-Ethiopia-ttt/
 ---
-In particular, this training is aimed at those who want to become Software Carpentry and Data Carpentry instructors, 
+In particular, this training is aimed at those who want to become [Software Carpentry](https://software-carpentry.org/) and [Data Carpentry](http://datacarpentry.org/) instructors, 
 run workshops and contribute to the Carpentry training materials. Software Carpentry and Data Carpentry's mission is to 
 help scientists and engineers get more research done in less time and with less pain by teaching them basic lab skills 
 for scientific computing. This hands-on two-day workshop covers the basics of educational psychology and instructional
