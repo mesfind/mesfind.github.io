@@ -2,7 +2,12 @@
 layout: post
 title: "Ethiopian Carpentry Instructor Training"
 comments: true
-subtitle: "German House (GIZ Building)"
+location: German House (GIZ Building)
+link: https://agenda.ethernet.edu.et/event/6/
+date: 2018-06-04
+archive: Y  
+etherpad: https://public.etherpad-mozilla.org/p/AAU-Unix
+repo: https://mesfind.github.io/2018-06-04-Ethiopia-ttt/
 ---
 In particular, this training is aimed at those who want to become Software Carpentry and Data Carpentry instructors, 
 run workshops and contribute to the Carpentry training materials. Software Carpentry and Data Carpentry's mission is to 
