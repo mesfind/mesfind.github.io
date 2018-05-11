@@ -3,7 +3,7 @@ layout: post
 title: "Ethiopian Carpentry Instructor Training"
 comments: true
 location: German House (GIZ Building)
-link: https://agenda.ethernet.edu.et/event/6/
+link: https://agenda.ethernet.edu.et/event/5/
 date: 2018-06-04
 archive: Y  
 etherpad: https://public.etherpad-mozilla.org/p/AAU-Unix
