@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[Ethiopian Carpentry Instructor Training](https://mesfind.github.io/2018-06-04-Ethiopia-ttt/)"
-subtitle: "[German House (GIZ Building)](https://agenda.ethernet.edu.et/event/5/)"
+subtitle: "[German House (GIZ Building), Addis Ababa](https://agenda.ethernet.edu.et/event/5/)"
 location: German House (GIZ Building)
 link: https://agenda.ethernet.edu.et/event/5/
 date: 2018-06-04
