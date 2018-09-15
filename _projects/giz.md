@@ -1,13 +1,10 @@
 ---
-title: "Ethiopian Carpentry Training"
-tagline: "Ethiopian Universities & Poly-Technics Colleges"
-website: "https://github.com/mesfind/net-set"
-skills: ["JavaScript", "Node", "Express", "Sockets", "Functional Programming", "TDD"]
+title: "The Provision of Supervison, Monitering & Evalution of Carpentry Workshops"
+tagline: "Ethiopian Universities & Poly-Technics Colleges for STEP in Ethiopia"
+website: "https://mesfind.github.io/projects/"
+skills: ["Shell Script", "git", "SQL", "HPC & HTC",  "R Programming", "Python Programming"]
 ---
+# Background
+The Carpentry Instructor workshop from June 4 – 7, 2018 has been designed to train Ethiopian university librarians and researchers together with TVET lecturers in The Carpentries teaching methodology. In the next step the Carpentry Instructor Candidates have to work on their own workshops at Ethiopian university campuses or at TVET colleges. Carpentry training curricula are available at international level. Overall, 17 Carpentry Instructor Candidates will organise their hands-on workshops at 11 university campuses and 5 TVET colleges and deliver their selected curricula.
+Since Carpentries (Data, Software and Library Carpentries) in the campuses and TVET colleges have no history, it is important to bring further The Carpentries’ standards and the Ethiopian Carpentry standards already developed by the Ethiopian Team of Carpentry trainers in order to set up a sustainable Ethiopian Carpentry Community – starting from the campus and TVET college level up to the national level.[for more ...](https://docs.google.com/document/d/1JzR-lUu_beZqm-lb8u0IMymaQ-xoInsmPnHmULHCXls/view).
 
-Net-set is a colorful, fast-paced, competitive card game you play in the browser.
-It's inspired by the real-life card game [Set®](https://en.wikipedia.org/wiki/Set_(game)).
-
-The app was written in JavaScript using [Node.js](https://nodejs.org/), [Express](http://expressjs.com/) and [socket.io](http://socket.io/).
-Its backend uses functional programming principles and persistent data structures via the  [Mori](http://swannodette.github.io/mori/) library, and was developed using [Mocha](https://mochajs.org) for TDD.
-The frontend makes use of [jQuery](https://jquery.com/) and [Underscore.js templates](http://underscorejs.org/#template); all designs are pure CSS.
