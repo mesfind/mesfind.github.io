@@ -7,6 +7,6 @@ I'm a Computational Data Scientist and Faculity member at Addis Ababa University
 
 I am currently working as a Research Software Engineer (RSE), as such, I work with many researchers, data scientists, and machine learners. I'm also passionate user and advocate of open source and  open science.
 
-One of the projects I am the most excited as a founder of a [R-Ladies](https://www.meetup.com/rladies-addis-ababa/members/) chapter for the Addis Ababa nad other town of the Ethiopia/
+One of the projects I am the most excited as a founder of a [R-Ladies](https://www.meetup.com/rladies-addis-ababa/members/) chapter for the Addis Ababa nad other town of the Ethiopia.
 
-When I'm not at a computer, I enjoy traveling, learning foreign languages, swing dancing and listening to live music. 
+When I'm not at a computer, I enjoy traveling,swing dancing and listening to live music. 
