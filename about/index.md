@@ -3,7 +3,7 @@ layout: page
 title: About me
 ---
 
-Mesfin Diro is a computational [Data Scientist](http://mesfinmoges.com) and faculty member at Addis Ababa University with high enthusiasm in expanding computational skills for better research outputs worldwide.  He is interested in the area of data science, Bio-informatics, HPC and HTC. He is also passionate and advocate of open source, open access, and open science.
+Mesfin Diro is a computational [Data Scientist](datacamp.com/statement-of-accomplishment/track/2374f44a1929076ec438404f79d310f00918cc54) and faculty member at Addis Ababa University with high enthusiasm in expanding computational skills for better research outputs worldwide.  He is interested in the area of data science, Bio-informatics, HPC and HTC. He is also passionate and advocate of open source, open access, and open science.
 
 One of the projects, He is the most excited as founder of a [L-Radies Addis Ababa](https://www.meetup.com/rladies-addis-ababa/members/) chapter to inspire and train female researcher in the area of data science in Ethiopia. The chapter reached out to different university young researchers to develop their computing skills through social, collaborative learning and sharing. The Chapter also was hosted the first Nasa Space Apps Hackathon 2018 in Addis Ababa which is an international mass collaboration focused on space exploration that takes place over 48-hours in cities around the world.
 
