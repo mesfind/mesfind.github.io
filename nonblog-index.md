@@ -5,7 +5,7 @@ title: Home
 
 ## Hi, I'Mesfin!
 
-I love building [language technology](https://en.wikipedia.org/wiki/Language_technology) and programming in languages like Python and JavaScript. At the moment I'm doing my coding at the [Recurse Center](http://www.recurse.com).
+I love building [language technology](https://en.wikipedia.org/wiki/Language_technology) and programming in languages like Python and JavaScript. At the moment I'm doing my coding at the [AAU](http://www.aau.edu.et/).
 
 For more about me, please check out my [bio]({{ site.baseurl }}about/) and [resume]({{ site.baseurl }}resume/).
 
