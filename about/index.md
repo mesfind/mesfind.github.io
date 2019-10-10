@@ -3,7 +3,7 @@ layout: page
 title: About me
 ---
 
-’m a computational Data Scientist and faculty member at Addis Ababa University with high enthusiasm in expand-
+I’m a computational Data Scientist and faculty member at Addis Ababa University with high enthusiasm in expand-
 ing computational skills for better research outputs worldwide. I have gained a wide variety of scientific computing
 techniques such as Programming Languages, Numerical method, Modeling and Simulation, Linear Programming,
 Dynamical Programming, and Network Optimization, Decision Theory, Machine Learning and High-Performance
